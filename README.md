@@ -2,7 +2,7 @@
 
 #### Project Description
 
-You are tracked almost every time you use a computer, often times with negative implications on your privacy. This is a project that tracks you, specifically tracks the movements of your mouse, without any of privacy concerns. Move your mouse around the screen and the pair of eyes will follow.
+You are tracked almost every time you use a computer, often times with negative implications on your privacy. This is a project that tracks you, specifically tracks the movements of your mouse, without any of the privacy concerns. Move your mouse around the screen and the pair of eyes will follow.
 
 #### How to Run
 
